@@ -8,7 +8,6 @@ Clone this repository or download the script file `main.py`.
 This script requires the `vobject` and `dateutil` Python packages. To install them, run:
 
 ```
-pip3 install vobject python-dateutil
 ```
 
 
