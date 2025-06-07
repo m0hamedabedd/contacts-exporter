@@ -1,6 +1,5 @@
 # Contacts Exporter
 
-This is a Python script to export contacts from the macOS Contacts app in vCard format to Markdown files with structured data. The script is compatible with Python 3.
 
 ## Installation
 
